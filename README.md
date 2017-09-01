@@ -4,7 +4,7 @@
 
 Boilerplate template to start a project with Django Rest Framework backend with React frontend using TokenAuthentication. SQLite is used for database.
 
-## How to rundsfasdf
+## How to run
 
 To run server part :
 ```
